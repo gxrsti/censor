@@ -1,0 +1,3 @@
+# Censor
+
+Enhanced profanity filtering
